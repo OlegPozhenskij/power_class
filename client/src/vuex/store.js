@@ -20,7 +20,7 @@ let store = new Vuex.Store({
     }, //с помощью них меняем банные в state
     actions: {
         GET_EMP_FROM_API({commit}) {
-            return axios('http://localhost:8080/api/users/1', {
+            return axios('https://power-class-monolit.herokuapp.com/api/users/1', {
                 method: "GET"
             }).then((employee) => {
                 commit('SET_EMPLOYEE_TO_STATE', employee.data);
