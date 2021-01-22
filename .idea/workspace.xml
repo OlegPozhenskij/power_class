@@ -4,75 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002adee2-b980-431c-8a57-46391b861070" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/client/spring-class.client.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/client/spring-class.client.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/pclass/spring-class.pclass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/pclass/spring-class.pclass.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/pclass/spring-class.pclass.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-class.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-class.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/install_tools.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/node.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/node_etw_provider.man" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/nodevars.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/npm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/npm.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/npx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/nodejs/node-v14.15.1-win-x64/npx.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/npm/npm-v6.14.10/npm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/npm/npm-v6.14.10/npm.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/npm/npm-v6.14.10/npm.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/npm/npm-v6.14.10/npx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/npm/npm-v6.14.10/npx.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gradle/npm/npm-v6.14.10/npx.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/bootJarMainClassName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/classes/java/main/com/spring/SpringbootRestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/classes/java/main/com/spring/controllers/PageRESTController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/classes/java/main/com/spring/controllers/UserRESTController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/classes/java/main/com/spring/entities/PrivateUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/classes/java/main/com/spring/entities/UserEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/classes/java/main/com/spring/repositories/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/libs/server-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/css/app.b460d851.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/js/app.03fb0f70.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/js/app.03fb0f70.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/js/chunk-vendors.02e0ea8c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/resources/main/static/js/chunk-vendors.02e0ea8c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+    <list default="true" id="002adee2-b980-431c-8a57-46391b861070" name="Default Changelist" comment="make it better">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,8 +44,16 @@
       <updated>1611345999413</updated>
       <workItem from="1611346002064" duration="312000" />
       <workItem from="1611346692420" duration="56000" />
-      <workItem from="1611346786750" duration="300000" />
+      <workItem from="1611346786750" duration="1157000" />
     </task>
+    <task id="LOCAL-00001" summary="make it better">
+      <created>1611347125598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611347125598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,5 +67,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make it better" />
+    <option name="LAST_COMMIT_MESSAGE" value="make it better" />
   </component>
 </project>
