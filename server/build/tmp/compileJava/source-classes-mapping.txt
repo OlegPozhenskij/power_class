@@ -1,0 +1,12 @@
+com/spring/SpringbootRestApplication.java
+ com.spring.SpringbootRestApplication
+com/spring/entities/PrivateUser.java
+ com.spring.entities.PrivateUser
+com/spring/entities/UserEntity.java
+ com.spring.entities.UserEntity
+com/spring/controllers/PageRESTController.java
+ com.spring.controllers.PageRESTController
+com/spring/repositories/UserRepository.java
+ com.spring.repositories.UserRepository
+com/spring/controllers/UserRESTController.java
+ com.spring.controllers.UserRESTController
