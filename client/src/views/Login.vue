@@ -44,7 +44,7 @@
           </button>
         </div>
         <div class="form-group">
-          <div v-if="message" class="alert alert-danger" role="alert">{{message}}</div>
+          <div v-if="message" class="alert alert-danger" role="alert">Incorrect login or password</div>
         </div>
       </form>
     </div>

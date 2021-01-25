@@ -1,0 +1,36 @@
+com/pozhenskii/springjwt/controllers/AuthController.java
+ com.pozhenskii.springjwt.controllers.AuthController
+com/pozhenskii/springjwt/controllers/TestController.java
+ com.pozhenskii.springjwt.controllers.TestController
+com/pozhenskii/springjwt/security/WebSecurityConfig.java
+ com.pozhenskii.springjwt.security.WebSecurityConfig
+com/pozhenskii/springjwt/models/User.java
+ com.pozhenskii.springjwt.models.User
+com/pozhenskii/springjwt/payload/request/LoginRequest.java
+ com.pozhenskii.springjwt.payload.request.LoginRequest
+com/pozhenskii/springjwt/models/ERole.java
+ com.pozhenskii.springjwt.models.ERole
+com/pozhenskii/springjwt/repository/RoleRepository.java
+ com.pozhenskii.springjwt.repository.RoleRepository
+com/pozhenskii/springjwt/security/services/UserDetailsImpl.java
+ com.pozhenskii.springjwt.security.services.UserDetailsImpl
+com/pozhenskii/springjwt/payload/request/SignupRequest.java
+ com.pozhenskii.springjwt.payload.request.SignupRequest
+com/pozhenskii/springjwt/models/Role.java
+ com.pozhenskii.springjwt.models.Role
+com/pozhenskii/springjwt/security/jwt/JwtUtils.java
+ com.pozhenskii.springjwt.security.jwt.JwtUtils
+com/pozhenskii/springjwt/security/jwt/AuthEntryPointJwt.java
+ com.pozhenskii.springjwt.security.jwt.AuthEntryPointJwt
+com/pozhenskii/springjwt/repository/UserRepository.java
+ com.pozhenskii.springjwt.repository.UserRepository
+com/pozhenskii/springjwt/payload/response/JwtResponse.java
+ com.pozhenskii.springjwt.payload.response.JwtResponse
+com/pozhenskii/springjwt/security/jwt/AuthTokenFilter.java
+ com.pozhenskii.springjwt.security.jwt.AuthTokenFilter
+com/pozhenskii/springjwt/SpringBootSecurityJwtApplication.java
+ com.pozhenskii.springjwt.SpringBootSecurityJwtApplication
+com/pozhenskii/springjwt/security/services/UserDetailsServiceImpl.java
+ com.pozhenskii.springjwt.security.services.UserDetailsServiceImpl
+com/pozhenskii/springjwt/payload/response/MessageResponse.java
+ com.pozhenskii.springjwt.payload.response.MessageResponse

@@ -12,7 +12,7 @@
             <label for="username">Username</label>
             <input
               v-model="user.username"
-              v-validate="'required|min:3|max:20'"
+              v-validate="'required|min:3|max:40'"
               type="text"
               class="form-control"
               name="username"
