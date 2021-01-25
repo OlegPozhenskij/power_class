@@ -104,7 +104,7 @@
       <recent name="com.spring.security.controller.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.spring-class [stage]">
+  <component name="RunManager" selected="Spring Boot.SpringBootSecurityJwtApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -202,8 +202,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.spring-class [stage]" />
         <item itemvalue="JAR Application.server.jar" />
+        <item itemvalue="Gradle.spring-class [stage]" />
         <item itemvalue="Gradle.spring-class [processResources]" />
         <item itemvalue="Gradle.spring-class [npm_run_build]" />
         <item itemvalue="npm.serve" />
@@ -229,7 +229,7 @@
       <workItem from="1611534272238" duration="242000" />
       <workItem from="1611566306209" duration="6900000" />
       <workItem from="1611573255063" duration="94000" />
-      <workItem from="1611573383279" duration="4357000" />
+      <workItem from="1611573383279" duration="6029000" />
     </task>
     <task id="LOCAL-00001" summary="make it better">
       <created>1611347125598</created>
@@ -300,8 +300,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/server/src/main/java/com/pozhenskii/springjwt/controllers/AuthController.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="1" />
+          <line>79</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

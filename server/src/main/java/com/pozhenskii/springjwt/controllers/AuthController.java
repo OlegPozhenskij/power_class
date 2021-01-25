@@ -55,11 +55,6 @@ public class AuthController {
 
 	@PostMapping("/signin")
 	public ResponseEntity<?> authenticateUser(@Valid @RequestBody LoginRequest loginRequest) {
-		if(!roleRepository.findByName(ROLE_USER).isPresent()) {
-			roleRepository.save(new Role(ROLE_USER));
-			roleRepository.save(new Role(ROLE_ADMIN));
-			roleRepository.save(new Role(ROLE_MODERATOR));
-		}
 
 		Authentication authentication = authenticationManager.authenticate(
 				new UsernamePasswordAuthenticationToken(loginRequest.getUsername(), loginRequest.getPassword()));
@@ -82,6 +77,12 @@ public class AuthController {
 
 	@PostMapping("/signup")
 	public ResponseEntity<?> registerUser(@Valid @RequestBody SignupRequest signUpRequest) {
+		if(!roleRepository.findByName(ROLE_USER).isPresent()) {
+			roleRepository.save(new Role(ROLE_USER));
+			roleRepository.save(new Role(ROLE_ADMIN));
+			roleRepository.save(new Role(ROLE_MODERATOR));
+		}
+
 		if (userRepository.existsByUsername(signUpRequest.getUsername())) {
 			return ResponseEntity
 					.badRequest()
