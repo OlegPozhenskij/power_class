@@ -7,20 +7,18 @@ import Register from './views/Register.vue';
 Vue.use(Router);
 
 export const router = new Router({
-  mode: 'history',
   routes: [
     {
       path: '/',
-      name: '/#/home',
+      name: '/home',
       component: Home
     },
     {
-      path: '/#/home',
+      path: '/home',
       component: Home
     },
     {
       path: '/login',
-      name: '/#/login',
       component: Login
     },
     {

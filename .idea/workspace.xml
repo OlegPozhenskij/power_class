@@ -5,55 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="002adee2-b980-431c-8a57-46391b861070" name="Default Changelist" comment="make it better">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/auth-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/auth.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/user.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store/auth.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/BoardAdmin.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/BoardModerator.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/BoardUser.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/Profile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/Register.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/v-main-wrapper.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/v-news-page.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/v-personal-account.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/v-personal-info.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/v-schedule-info.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/v-schedule-wrapper.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/router/router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/vuex/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/SpringbootRestApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/controllers/UserRESTController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/entities/PrivateUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/entities/UserEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/repositories/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +227,7 @@
       <workItem from="1611534272238" duration="242000" />
       <workItem from="1611566306209" duration="6900000" />
       <workItem from="1611573255063" duration="94000" />
-      <workItem from="1611573383279" duration="88000" />
+      <workItem from="1611573383279" duration="923000" />
     </task>
     <task id="LOCAL-00001" summary="make it better">
       <created>1611347125598</created>
