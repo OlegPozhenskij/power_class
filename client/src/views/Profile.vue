@@ -70,7 +70,7 @@ export default {
     startUpload() {
       let user = JSON.parse(localStorage.getItem('user'));
       axios({
-        url: 'http://localhost:8080/api/test/photo',
+        url: 'https://secure-app-class.herokuapp.com/api/test/photo',
         method: 'POST',
         data: this.formData,
         headers: {
