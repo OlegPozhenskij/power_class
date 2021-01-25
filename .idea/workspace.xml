@@ -5,9 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="002adee2-b980-431c-8a57-46391b861070" name="Default Changelist" comment="make it better">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/services/auth-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/services/auth.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/services/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/auth.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/BoardAdmin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/BoardModerator.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/BoardUser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/controllers/PageRESTController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/controllers/UserRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/spring/controllers/UserRESTController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/v-main-wrapper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/v-news-page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/v-personal-account.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/v-personal-info.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/v-schedule-info.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/v-schedule-wrapper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/router/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/vuex/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/SpringbootRestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/controllers/UserRESTController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/entities/PrivateUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/entities/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/spring/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +65,46 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-class" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-class" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-class" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -29,14 +115,42 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oleg\Desktop\spring-class\client\src" />
+      <recent name="C:\Users\Oleg\Desktop\spring-class\client" />
+      <recent name="C:\Users\Oleg\Desktop\spring-class\server\src\main\java" />
+      <recent name="C:\Users\Oleg\Desktop\spring-class\server\src\main\java\com\spring\schedule" />
+      <recent name="C:\Users\Oleg\Desktop\spring-class\server\src\main\java\com\spring\security\controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.security.controller.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.spring-class [stage]">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -48,22 +162,97 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="spring-class [npm_run_build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="npm_run_build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-class [processResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="processResources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-class [stage]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="stage" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="server.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/server.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringBootSecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-class.server.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.SpringbootRestApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pozhenskii.springjwt.SpringBootSecurityJwtApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringbootRestApplication" />
+        <item itemvalue="Gradle.spring-class [stage]" />
+        <item itemvalue="JAR Application.server.jar" />
+        <item itemvalue="Gradle.spring-class [processResources]" />
+        <item itemvalue="Gradle.spring-class [npm_run_build]" />
+        <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
   </component>
@@ -77,7 +266,16 @@
       <updated>1611345999413</updated>
       <workItem from="1611346002064" duration="312000" />
       <workItem from="1611346692420" duration="56000" />
-      <workItem from="1611346786750" duration="3719000" />
+      <workItem from="1611346786750" duration="4465000" />
+      <workItem from="1611381316179" duration="3382000" />
+      <workItem from="1611425070438" duration="9632000" />
+      <workItem from="1611474254651" duration="6949000" />
+      <workItem from="1611509261060" duration="948000" />
+      <workItem from="1611531929322" duration="1836000" />
+      <workItem from="1611534272238" duration="242000" />
+      <workItem from="1611566306209" duration="6900000" />
+      <workItem from="1611573255063" duration="94000" />
+      <workItem from="1611573383279" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="make it better">
       <created>1611347125598</created>
@@ -114,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611349064037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="make it better">
+      <created>1611350809495</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611350809495</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
