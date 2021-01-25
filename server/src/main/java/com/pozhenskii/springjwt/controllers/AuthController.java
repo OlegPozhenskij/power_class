@@ -32,6 +32,8 @@ import com.pozhenskii.springjwt.repository.RoleRepository;
 import com.pozhenskii.springjwt.repository.UserRepository;
 import com.pozhenskii.springjwt.security.services.UserDetailsImpl;
 
+import static com.pozhenskii.springjwt.models.ERole.*;
+
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
 @RequestMapping("/api/auth")
@@ -53,6 +55,11 @@ public class AuthController {
 
 	@PostMapping("/signin")
 	public ResponseEntity<?> authenticateUser(@Valid @RequestBody LoginRequest loginRequest) {
+		if(!roleRepository.findByName(ROLE_USER).isPresent()) {
+			roleRepository.save(new Role(ROLE_USER));
+			roleRepository.save(new Role(ROLE_ADMIN));
+			roleRepository.save(new Role(ROLE_MODERATOR));
+		}
 
 		Authentication authentication = authenticationManager.authenticate(
 				new UsernamePasswordAuthenticationToken(loginRequest.getUsername(), loginRequest.getPassword()));
@@ -98,7 +105,7 @@ public class AuthController {
 		Set<Role> roles = new HashSet<>();
 
 		if (strRoles == null) {
-			Role userRole = roleRepository.findByName(ERole.ROLE_USER)
+			Role userRole = roleRepository.findByName(ROLE_USER)
 					.orElseThrow(() -> new RuntimeException("Error: Role is not found."));
 			roles.add(userRole);
 		} else {
@@ -117,7 +124,7 @@ public class AuthController {
 
 					break;
 				default:
-					Role userRole = roleRepository.findByName(ERole.ROLE_USER)
+					Role userRole = roleRepository.findByName(ROLE_USER)
 							.orElseThrow(() -> new RuntimeException("Error: Role is not found."));
 					roles.add(userRole);
 				}

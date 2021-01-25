@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="002adee2-b980-431c-8a57-46391b861070" name="Default Changelist" comment="make it better">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/pozhenskii/springjwt/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/pozhenskii/springjwt/controllers/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +229,7 @@
       <workItem from="1611534272238" duration="242000" />
       <workItem from="1611566306209" duration="6900000" />
       <workItem from="1611573255063" duration="94000" />
-      <workItem from="1611573383279" duration="2222000" />
+      <workItem from="1611573383279" duration="4357000" />
     </task>
     <task id="LOCAL-00001" summary="make it better">
       <created>1611347125598</created>
@@ -293,5 +294,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make it better" />
     <option name="LAST_COMMIT_MESSAGE" value="make it better" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/pozhenskii/springjwt/controllers/AuthController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
