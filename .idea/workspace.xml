@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="002adee2-b980-431c-8a57-46391b861070" name="Default Changelist" comment="make it better">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/services/auth.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/services/auth.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/services/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/services/user.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Profile.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,15 +126,13 @@
     </key>
   </component>
   <component name="RunManager" selected="JAR Application.server.jar">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -256,7 +251,8 @@
       <workItem from="1611566306209" duration="6900000" />
       <workItem from="1611573255063" duration="94000" />
       <workItem from="1611573383279" duration="10420000" />
-      <workItem from="1611591157601" duration="6834000" />
+      <workItem from="1611591157601" duration="8184000" />
+      <workItem from="1611665620488" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="make it better">
       <created>1611347125598</created>
